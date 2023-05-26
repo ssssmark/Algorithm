@@ -15,7 +15,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "前缀和与差分", "前�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "动态规划", "动态规划\动态规划.vcxproj", "{26AFE062-A32C-4EC6-8CD0-BF06DC8F4854}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图论", "并查集\并查集.vcxproj", "{920A229C-9225-4FEF-9052-B53210A3E43E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "并查集", "并查集\并查集.vcxproj", "{920A229C-9225-4FEF-9052-B53210A3E43E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
