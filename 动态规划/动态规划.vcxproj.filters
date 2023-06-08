@@ -18,5 +18,17 @@
     <ClCompile Include="基因序列比对.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最长子段和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="旅费.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="迷宫%28dfs%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="迷宫（线性dp）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
