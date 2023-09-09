@@ -15,34 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="K -Box.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="H-素数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="B.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="L.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="F.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="B equation.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="G.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="H.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="I.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="F sequence.cpp">
+    <ClCompile Include="不同的二进制.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
